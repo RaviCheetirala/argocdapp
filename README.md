@@ -39,3 +39,7 @@ https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microso
 * Login to ArgoCD: [https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli](https://argo-cd.readthedocs.io/en/stable/getting_started/#4-login-using-the-cli)
 
 * ArgoCD Configuration: [https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/](https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/)
+
+CI Automation:
+
+https://argo-cd.readthedocs.io/en/stable/user-guide/ci_automation/
