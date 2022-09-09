@@ -43,3 +43,7 @@ https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microso
 CI Automation:
 
 https://argo-cd.readthedocs.io/en/stable/user-guide/ci_automation/
+  
+  ApplicationSet:
+  
+  https://www.padok.fr/en/blog/introduction-argocd-applicationset
