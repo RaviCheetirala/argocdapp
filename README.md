@@ -1,5 +1,6 @@
 #### Commands
 
+
 ```bash
 # install ArgoCD in k8s
 kubectl create namespace argocd
@@ -16,6 +17,16 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 ```
 </br>
+
+<p>
+New User Creation : https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/#local-usersaccounts-v15
+
+https://medium.com/geekculture/create-a-new-user-in-argocd-using-the-cli-and-configmap-8cbb27cf5904
+Azure AD integration :
+
+https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft/
+<p>
+
 
 #### Links
 
